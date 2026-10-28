@@ -1,0 +1,12 @@
+# Prerequisites
+*.d
+
+# Object files and master binary execution nodes
+*.o
+*.gch
+build/
+kronos_tracer
+
+# Custom Binary Payload Exclusions
+*.krn
+
